@@ -20,6 +20,9 @@ D:\Develop_firmware\PROJECT_FREELANCER\Project_Nhat\Edge_Clock\code\dev_GUI_Edge
 release>windeployqt.exe --quick .  
 
 - Đường dẫn thư mục qml: " --qmldir D:\Develop_firmware\PROJECT_FREELANCER\Project_Nhat\Edge_Clock\code\dev_GUI_Edge_Clock\Dev_GUI_EdgeClock\qml "
+
+- cmd_deloy_windown
+
 D:\Develop_firmware\PROJECT_FREELANCER\Project_Nhat\Edge_Clock\code\dev_GUI_Edge_Clock\build-qml_rgb-Desktop_Qt_5_15_2_MinGW_64_bit-Release\release>windeployqt.exe --quick --no-translations . --qmldir D:\Develop_firmware\PROJECT_FREELANCER\Project_Nhat\Edge_Clock\code\dev_GUI_Edge_Clock\Dev_GUI_EdgeClock\qml
 
 https://www.youtube.com/watch?v=8qozxqSZQEg
