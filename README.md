@@ -1,7 +1,7 @@
 # QT_deployment_app
 Hướng dẫn deployment app trên windown ios android linux
 
-# Deploy app windown
+## Deploy app windown
 - Chọn Qt\5.15.2\mingw81_64> cho windon64bit
 -Note: tùy vào ứng dụng, nếu viết trên MSVC(microsoft visual studio code) thì chọn ![image](https://user-images.githubusercontent.com/18188862/179348738-880ca59f-1a29-47a2-8a69-0ebd0ac60cc1.png)
 
@@ -26,3 +26,7 @@ release>windeployqt.exe --quick .
 D:\Develop_firmware\PROJECT_FREELANCER\Project_Nhat\Edge_Clock\code\dev_GUI_Edge_Clock\build-qml_rgb-Desktop_Qt_5_15_2_MinGW_64_bit-Release\release>windeployqt.exe --quick --no-translations . --qmldir D:\Develop_firmware\PROJECT_FREELANCER\Project_Nhat\Edge_Clock\code\dev_GUI_Edge_Clock\Dev_GUI_EdgeClock\qml
 
 https://www.youtube.com/watch?v=8qozxqSZQEg
+
+## Deploy app macos
+
+## Deploy app ubuntu
